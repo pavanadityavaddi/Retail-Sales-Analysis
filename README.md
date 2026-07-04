@@ -39,20 +39,20 @@ Discount Percentage
 Monthly Sales Information
 
 ## 📊 Dashboard KPIs
-Total Revenue
-Total Profit
-Total Orders
-Total Customers
-Average Rating
+Total Revenue,
+Total Profit,
+Total Orders,
+Total Customers,
+Average Rating,
 Average Order Value
 
 
 # Key Visualizations
 
-Revenue by Category
-Profit by Category
-Revenue by City
-Monthly Revenue Trend
+Revenue by Category,
+Profit by Category,
+Revenue by City,
+Monthly Revenue Trend,
 KPI Cards
 
 
