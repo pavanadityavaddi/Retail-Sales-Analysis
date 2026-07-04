@@ -16,29 +16,29 @@ and sales trends through data analysis and visualization.
 
 ## Tools & Technologies
 
-SQL (MySQL)
-Microsoft Excel
-Power BI
+SQL (MySQL) |
+Microsoft Excel |
+Power BI 
 
 
 # Dataset
 
- Order Details (Order ID, Order Date)
-Customer Information
-Product Details
-Category
-City
-Quantity & Unit Price
-Revenue, Cost & Profit
-Payment Method
-Sales Channel
-Customer Rating
-Marketing Campaign
-Customer Type
-Discount Percentage
+ Order Details (Order ID, Order Date),
+Customer Information,
+Product Details,
+Category,
+City,
+Quantity & Unit Price,
+Revenue, Cost & Profit,
+Payment Method,
+Sales Channel,
+Customer Rating,
+Marketing Campaign,
+Customer Type,
+Discount Percentage,
 Monthly Sales Information
 
-## 📊 Dashboard KPIs
+##  Dashboard KPIs
 Total Revenue,
 Total Profit,
 Total Orders,
